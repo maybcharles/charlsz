@@ -1,0 +1,7 @@
+2024/12/14-09:39:47.817 b24 Reusing MANIFEST C:\Users\natea\AppData\Local\Google\Chrome\User Data\Profile 6\IndexedDB\https_quhacks.tech_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/14-09:39:47.817 b24 Recovering log #6
+2024/12/14-09:39:47.818 b24 Reusing old log C:\Users\natea\AppData\Local\Google\Chrome\User Data\Profile 6\IndexedDB\https_quhacks.tech_0.indexeddb.leveldb/000006.log 
+2024/12/14-09:39:47.831 ca8 Level-0 table #11: started
+2024/12/14-09:39:47.833 ca8 Level-0 table #11: 1237 bytes OK
+2024/12/14-09:39:47.833 ca8 Delete type=0 #6
+2024/12/14-09:39:47.834 3660 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

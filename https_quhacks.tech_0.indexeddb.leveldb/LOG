@@ -1,0 +1,24 @@
+2024/12/14-16:27:42.548 33b8 Reusing MANIFEST C:\Users\natea\AppData\Local\Google\Chrome\User Data\Profile 6\IndexedDB\https_quhacks.tech_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/14-16:27:42.549 33b8 Recovering log #10
+2024/12/14-16:27:42.549 33b8 Reusing old log C:\Users\natea\AppData\Local\Google\Chrome\User Data\Profile 6\IndexedDB\https_quhacks.tech_0.indexeddb.leveldb/000010.log 
+2024/12/14-16:27:42.571 2b18 Level-0 table #14: started
+2024/12/14-16:27:42.572 2b18 Level-0 table #14: 3301 bytes OK
+2024/12/14-16:27:42.573 2b18 Delete type=0 #10
+2024/12/14-16:27:42.573 189c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 265 : 1
+2024/12/14-16:27:42.574 189c Compacting 1@0 + 1@1 files
+2024/12/14-16:27:42.575 189c Generated table #15@0: 55 keys, 2057 bytes
+2024/12/14-16:27:42.575 189c Compacted 1@0 + 1@1 files => 2057 bytes
+2024/12/14-16:27:42.575 189c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/14-16:27:42.576 189c Delete type=2 #14
+2024/12/14-16:27:42.576 3e10 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 265 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/14-16:30:51.187 3e10 Level-0 table #17: started
+2024/12/14-16:30:51.188 3e10 Level-0 table #17: 2345 bytes OK
+2024/12/14-16:30:51.189 3e10 Delete type=2 #11
+2024/12/14-16:30:51.189 3e10 Delete type=0 #13
+2024/12/14-16:30:51.190 33b8 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 322 : 1
+2024/12/14-16:30:51.190 33b8 Compacting 1@0 + 1@1 files
+2024/12/14-16:30:51.191 33b8 Generated table #18@0: 66 keys, 2154 bytes
+2024/12/14-16:30:51.191 33b8 Compacted 1@0 + 1@1 files => 2154 bytes
+2024/12/14-16:30:51.191 33b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/14-16:30:51.192 33b8 Delete type=2 #17
+2024/12/14-16:30:51.192 33b8 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 322 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
